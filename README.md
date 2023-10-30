@@ -48,6 +48,10 @@ for text, sentiment_score in zip(texts, sentiment_scores):
 
 ![278916325-a602e7d0-2f3a-4b05-be2d-5e1c97622ad6](https://github.com/VARSHINI22009118/Implementation-of-Sentimental-Analysis/assets/119401150/3d449c51-d3bb-4bb7-bb30-81d0d58cead9)
 
+## Result:
+
+Thus the implementation of semantic ananlysis is proved.
+
 
 
 
